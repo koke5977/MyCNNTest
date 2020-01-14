@@ -1,3 +1,7 @@
+機械学習、ディープラーニングの勉強のために、JupyterNotebookにてTensorflowとKerasを動かし
+CNNを利用しました。主にCNNによる画像認識を試しました。
+
+
 【animals.ipynb】精度:95%
 犬と猫の顔写真(animalsフォルダ)を用いて、CNNで学習させた後、サンプル画像(images 犬:0～8、猫:9～17)
 で判定した時の記録です。
