@@ -1,4 +1,4 @@
-##　説明
+### 説明
 
 機械学習、ディープラーニングの勉強のために、JupyterNotebookにてTensorflowとKerasを動かし
 CNNを利用しました。主にCNNによる画像認識を試しました。
